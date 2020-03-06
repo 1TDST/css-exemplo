@@ -1,0 +1,23 @@
+::::::::::::  TAREFAS MÓ FÁCIL  :::::::::::::::::::
+
+1 - Todas a páginas devem estar linkadas umas com as outras. As páginas não podem apresentar links para si mesmas.
+
+2 - Adicionar CSS interno na página inicial.
+
+3 - Aponte para o seletor container e faça as seguintes estilizações:
+	a - cor de fundo #1f222b.
+	b - margem esquerda e direita em 15%.
+	c - fonte Times New Roman e caso não exista deixe o interpretador escolher uma.
+	d - cor do texto #ffffff
+
+3 - Aponte para o seletor ( a ) e utilize a seguinte instrução: text-decoration:none.
+
+4 - Para as páginas de curso todo o css acima deve ser repetido em um arquivo externo de css que deve ser referenciado em cada uma das páginas, este arquivo deve estar na pasta css na raiz do projeto. O nome do arquivo deve ser estilo.css.
+
+5 - Nas páginas dos cursos logo abaixo da div do menu deve ser inserida uma nova div onde deve conter os seguintes elementos:
+	a - img : Marque este elemento com um id referente ao curso, Ex: id="imgJava". Este elemento deve conter uma imagem relativa ao curso em questão, utilize o arquivo de css para inserir alterações de tamanho neste elemento, lembre se que tudo deve ser responsivo.
+	b - p : Marque este elemento com um id referente ao curso , Ex id="histJava". Este elemento deve conter um texto breve sobre o curso.
+
+6 - A cada página construida faça um commit e um push para sua branch!
+
+Bom divertimento!
