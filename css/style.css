@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css?family=Spartan&display=swap');
+
+*{
+  font-family: 'Spartan','Times New Roman', serif;
+}
+
+#container {
+    background-color: #1f222b;
+    color: #ffffff;
+    margin: 0 15%;
+    padding:5px;
+    margin-bottom: 10px;
+    border-radius:5px;
+  }
+
+  a {
+    text-decoration: none;
+  }
+
+  #img-python{
+    margin: 0 auto;
+    text-align: center;
+  }
