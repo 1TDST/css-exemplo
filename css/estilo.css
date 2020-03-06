@@ -1,0 +1,26 @@
+#container {
+  background-color: #1f222b;
+  margin: 0 15% 0 15%;
+  font-style: "Times New Roman";
+  color: #ffffff;
+}
+
+a {
+  text-decoration: none;
+}
+
+#imgCsharp {
+  width: 10%;
+}
+
+#imgJava {
+  width: 10%;
+}
+
+#imgPython {
+  width: 10%;
+}
+
+#imgRuby {
+  width: 10%;
+}
