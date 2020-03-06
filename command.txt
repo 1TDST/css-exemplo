@@ -5,5 +5,12 @@ git config --global user.name"nomeGITHUB"
 
 git config --global user.email email
 
-Mudar de branch:
+Mudar de branch e criar:
 git checkout -b nomeBranch
+
+git add *
+
+git commit -m "Mensagem"
+
+Upload de dados:
+git push origin nomeBranch

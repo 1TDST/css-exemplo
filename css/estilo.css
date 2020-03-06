@@ -5,7 +5,7 @@
 	font-family: "Times New Roman", "";
 	color:#FFFFFF;
 }
-		
+
 a{
 	text-decoration:none;
 }
@@ -26,6 +26,6 @@ a{
 }
 
 #imgPython{
-	width: auto;
-	height: auto;
+	width: 15%;
+	height: 15%;
 }
