@@ -1,0 +1,31 @@
+#container{
+	background-color: #1F222B;
+	margin-left: 15%;
+	margin-right: 15%;
+	font-family: "Times New Roman", "";
+	color:#FFFFFF;
+}
+		
+a{
+	text-decoration:none;
+}
+
+#imgJava{
+	width: 18%;
+	height: 18%;
+}
+
+#imgPython{
+	width: 20%;
+	height: 20%;
+}
+
+#imgRuby{
+	width: 40%;
+	height: 40%;
+}
+
+#imgPython{
+	width: auto;
+	height: auto;
+}

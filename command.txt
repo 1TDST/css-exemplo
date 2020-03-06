@@ -1,0 +1,9 @@
+Baixar arquivo do GitHub
+git clone arquivoUrl
+
+git config --global user.name"nomeGITHUB"
+
+git config --global user.email email
+
+Mudar de branch:
+git checkout -b nomeBranch
