@@ -1,0 +1,9 @@
+
+
+5 - Nas páginas dos cursos logo abaixo da div do menu deve ser inserida uma nova div onde deve conter os seguintes elementos:
+	a - img : Marque este elemento com um id referente ao curso, Ex: id="imgJava". Este elemento deve conter uma imagem relativa ao curso em questão, utilize o arquivo de css para inserir alterações de tamanho neste elemento, lembre se que tudo deve ser responsivo.
+	b - p : Marque este elemento com um id referente ao curso , Ex id="histJava". Este elemento deve conter um texto breve sobre o curso.
+
+6 - A cada página construida faça um commit e um push para sua branch!
+
+Bom divertimento!
