@@ -17,7 +17,12 @@
     text-decoration: none;
   }
 
-  #img-python{
+  #img-python,#img-ruby{
     margin: 0 auto;
     text-align: center;
+  }
+
+  #img-ruby{
+    width:30%;
+    height: auto;
   }
