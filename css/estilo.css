@@ -8,3 +8,23 @@
 a{
   text-decoration: none;
 }
+
+#imgJava{
+	width: 15%;
+	height: 15%;
+}
+
+#imgPython{
+	width: 45%;
+	height: 45%;
+}
+
+#imgRuby{
+	width: 20%;
+	height: 20%;
+}
+
+#imgCsharp{
+	width: 15%;
+	height: 15%;
+}
