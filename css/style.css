@@ -4,12 +4,16 @@
   font-family: "Spartan", "Times New Roman", serif;
 }
 
+body{
+  width:100%;
+  box-sizing: border-box;
+}
+
 #container {
   background-color: #1f222b;
   color: #ffffff;
   margin: 0 15%;
-  padding: 5px;
-  margin-bottom: 10px;
+  padding: 10px;
   border-radius: 5px;
 }
 
@@ -17,17 +21,31 @@ a {
   text-decoration: none;
 }
 
-#img-python,
-#img-ruby {
-  margin: 0 auto;
-  text-align: center;
+.menu{
+  margin-left:200px;
 }
 
-#img-ruby {
-  width: 300px;
+#texto{
+width:65%;
+margin:0 auto;
+margin-top: 30px;
+text-align: justify;
+}
+
+.voltar{
+text-align: center;
+margin-top: 100px;
+}
+
+
+.img-csharp,.img-java,.img-python,.img-ruby{
+  padding-top:10px;
+text-align: center;
+}
+
+#img-csharp,#img-java,#img-python,#img-ruby{
+  width:20%;
   height: auto;
 }
 
-#img-ruby img {
-  width: 100%;
-}
+
