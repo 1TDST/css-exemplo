@@ -1,4 +1,3 @@
-# css-exemplo
-Projeto para exemplos de páginas HTML com CSS
+# VSCODE > ATOM
 
-VSCODE > ATOM
+Projeto para exemplos de páginas HTML com CSS.
