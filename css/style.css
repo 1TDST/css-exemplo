@@ -1,3 +1,25 @@
-/* body{
-background-color: black;
-} */
+/*
+3 - Aponte para o seletor container e faça as seguintes estilizações:
+    a - cor de fundo #1f222b.
+    b - margem esquerda e direita em 15%.
+    c - fonte Times New Roman e caso não exista deixe o interpretador escolher uma.
+    d - cor do texto #ffffff
+*/
+
+
+
+
+#container{
+  background-color: #1f222b;
+  margin: 0 15% 0 15%;
+  font-family: 'Times New Roman', serif;
+  color: #fff
+}
+
+a{
+  text-decoration: none;
+}
+
+#imgJava{
+  width: 10%;
+}
