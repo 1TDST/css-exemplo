@@ -1,6 +1,6 @@
 #Container{
-  background-color:#00FF7F;
-  margin: 0 15 0 15;
+  background-color:#f2f7a8;
+  margin: 0 15 0 15  ;
   font-family: 'Times New Roman', Arial, Calibri,serif;
   font-style: normal;
   color:#696969;
@@ -10,11 +10,4 @@
   color: inherit, #f2f7ff;
   font-size: 20px;
   color: #7856f4;
-  margin-bottom:30% ;
-}
-.Imagemjava{
-  margin-left: 38%;
-  margin-right: 50%;
-  margin-top: -10%;
-  position: absolute;
 }

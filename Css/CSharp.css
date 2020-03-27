@@ -1,9 +1,9 @@
 #Container{
-  background-color:#00FF7F;
+  background-color:#1731a5;
   margin: 0 15 0 15;
   font-family: 'Times New Roman', Arial, Calibri,serif;
   font-style: normal;
-  color:#696969;
+  color:#ffff22;
 }
 .LinksPaginas{
 
@@ -12,9 +12,8 @@
   color: #7856f4;
   margin-bottom:30% ;
 }
-.Imagemjava{
-  margin-left: 38%;
-  margin-right: 50%;
-  margin-top: -10%;
-  position: absolute;
+
+.HistoriaCSharp{
+margin: 30 0 25 0;
+
 }
