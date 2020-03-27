@@ -12,6 +12,8 @@
   margin:0 15% 0 15%;
   font-family: 'Times New Roman',serif;
   color:#fff;
+  border-radius: 10px 10px 0 0;
+  height: 800px;
 }
 
 /*
@@ -32,13 +34,68 @@ a{
 */
 #img-java{
   width: 10%;
+  margin: 0 0 0 45%;
 }
 #img-csharp{
   width: 10%;
+  margin: 0 0 0 45%;
 }
 #img-python{
   width: 10%;
+  margin: 0 0 0 45%;
 }
 #img-ruby{
   width: 10%;
+  margin: 0 0 0 45%;
 }
+
+/*
+6 - A cada página construida faça um commit e um push para sua branch!
+Bom divertimento!
+*/
+
+/* Menu horizontal */
+#box-menu{
+  padding: 1px;
+}
+
+#menu-horiz li{
+  display: inline;
+  padding:0 9% 0 9%;
+}
+#menu-horiz li a{
+  font-family: 'Tahoma', serif;
+  font-size: 20px;
+
+
+}
+
+#menu-horiz li a:LINK{
+  color:#fff;
+  padding: 17px;
+  border-radius: 5px;
+}
+#menu-horiz li a:VISITED{
+  color:#fff;
+}
+#menu-horiz li a:HOVER{
+  color:#cccccc;
+  background-color: #4d5a5e;
+}
+/* Menu horizontal */
+
+/* Legendas das Imagens*/
+figcaption{
+  font-family: 'Tahoma',serif;
+  font-size: 20px;
+  position: fixed;
+  padding: 10% 17% 0 0;
+}
+/* Legendas das Imagens*/
+
+/* Títulos das páginas */
+#tit-pag{
+  font-family: 'Verdana', sans-serif;
+  text-align: center;
+}
+/* Títulos das páginas */
