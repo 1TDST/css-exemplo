@@ -30,6 +30,15 @@ a{
 	b - figCaption : Marque este elemento com um id referente ao curso , Ex id="histJava". Este elemento deve conter um texto breve sobre o curso.
 
 */
-#imgJava{
+#img-java{
+  width: 10%;
+}
+#img-csharp{
+  width: 10%;
+}
+#img-python{
+  width: 10%;
+}
+#img-ruby{
   width: 10%;
 }
