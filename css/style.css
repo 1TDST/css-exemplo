@@ -22,7 +22,7 @@ li{
   text-decoration: none;
   float: left;
   padding:0px 10px 0px 10px ;
-  /*border: 2px solid white;*/
+  border: 2px solid white;
   width: 50px;
   list-style-type: none;
 }
