@@ -1,0 +1,14 @@
+
+#container{
+  background-color: #1f222b;
+  margin:0 15% 0 15%;
+  font-family: 'Times New Roman', serif;
+  color:#fff;
+}
+ a{
+   text-decoration:none;
+ }
+
+ #imgjava{
+   width: 10%;
+ }
