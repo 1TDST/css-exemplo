@@ -4,11 +4,84 @@
   margin:0 15% 0 15%;
   font-family: 'Times New Roman', serif;
   color:#fff;
+  height: 800px;
+  border-radius: 10px 10px 0 0;
 }
  a{
    text-decoration:none;
  }
 
- #imgjava{
-   width: 10%;
- }
+
+#Java{
+padding-left: 44%;
+
+}
+
+ #img-java{
+   width: 12%;
+  }
+
+
+#csharp{
+  padding-left: 45%;
+}
+
+ #img-csharp{
+    width: 10%;
+  }
+
+
+#ruby{
+  padding-left: 44%;
+}
+
+
+ #img-ruby{
+     width: 10%;
+   }
+
+
+#python{
+  padding-left: 44%;
+}
+
+
+  #img-python{
+      width: 10%;
+    }
+
+.menu-box{
+  padding: 0.1% 0 0.1% 0;
+  background-color: #8e8e8e;
+  border-radius: 10px;
+}
+
+
+.menu-horiz li{
+  display: inline;
+  padding: 0 8% 0 10%;
+}
+
+.menu-horiz li a{
+  color: #fff;
+  font-family: 'tahoma', serif;
+  font-size: 20px;
+  padding: 1%;
+}
+
+.menu-horiz li a:LINK{
+  color: #fff;
+  }
+
+.menu-horiz li a:VISITED{
+  color: #fff;
+}
+
+.menu-horiz li a:HOVER{
+  background-color: #6ed2cc;
+}
+
+.tit-pag{
+  text-align: center;
+  font-family: 'tahoma', serif;
+}
