@@ -1,15 +1,69 @@
-#container {
-    background-color: #aa73f2;
+#container{
+    background-color: #ebebeb;
     margin-left: 15%;
     margin-right: 15%;
     font-family: "Times New Roman";
     text-decoration-color: #ffffff;
+    height: 800px;
 }
 a{
     text-decoration: none;
 }
-img{
+#foto{
+  width: 100%;
+  height: 300px;
+}
+#imgC{
     margin: 2%;
     height: 10%;
     width: 96%;
+}
+#imgRuby{
+    margin: 2%;
+    height: 10%;
+    width: 96%;
+}
+#imgPython{
+    margin: 2%;
+    height: 10%;
+    width: 96%;
+}
+#imgJava{
+    margin: 2%;
+    height: 10%;
+    width: 96%;
+}
+/*Menu horizontal*/
+.menu-box{
+    padding: 0.1% 0 0.1% 0;
+    background-color: #86a77d;
+    border-radius: 5px;
+    width: 100%;
+}
+
+.menu-horiz li{
+    display: inline;
+    padding: 0 5% 0 8%; /**/
+}
+.menu-horiz li a{
+    text-decoration: none;
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+    font-family: 'Arial',Tahoma, serif;
+    padding: 2%;
+}
+.menu-horiz li a:LINK{
+    color: rgb(0, 0, 0);
+}
+.menu-horiz li a:VISITED{
+    color: rgb(0, 0, 0);
+}
+.menu-horiz li a:HOVER{
+    text-decoration-color: white;
+    background-color: #617566;
+}
+.tit-pag{
+    color: #617566;
+    text-align: center;
+    font-family: Arial, Tahoma, serif;
 }
