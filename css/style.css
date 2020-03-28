@@ -1,14 +1,56 @@
+/* Estilização do container*/
 #container{
     background-color: #1f222b;
     margin: 0 15% 0 15%;
     font-family: "Times New Roman",serif;
     color: #fff;
+    height: 800px;
+    border-radius: 10px;
 }
-
+/*Estilização do texto*/
 a{
     text-decoration: none;
 }
-
+/* Tamanho das imagens*/
 #imgCsharp{
-    width: 5%;
+    width: 10%;
+}
+#imgJava{
+    width: 15%;
+}
+#imgPython{
+    width: 15%;
+}
+#imgRuby{
+    width: 10%;
+}
+/* Menu Horizontal */
+.menu-box{
+    background-color: #262423;
+    padding: 0.01% 0 0.01% 0;
+    border-radius: 10px;
+}
+.menu-horizontal li{
+    display: inline;
+    padding: 0 9% 0 9%;
+}
+.menu-horizontal li a{
+    color: #fff;
+    font-family: 'Tahoma', Serif;
+    font-size: 20px;
+    padding: 1%;
+}
+.menu-horizontal li a:link{
+    color: #fff;
+}
+.menu-horizontal li a:visited{
+    color: #fff;
+}
+.menu-horizontal li a:hover{
+    background-color: #50786d;
+}
+/* Menu Horizontal */
+.titulo-pag{
+    text-align: center;
+    font-family: 'Tahoma', Serif;
 }
