@@ -1,0 +1,23 @@
+{
+  "name": "e",
+  "version": "1.0.0",
+  "description": "Projeto para exemplos de páginas HTML com CSS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1TDST/css-exemplo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/1TDST/css-exemplo/issues"
+  },
+  "homepage": "https://github.com/1TDST/css-exemplo#readme",
+  "dependencies": {
+    "http-server": "^0.12.1"
+  }
+}

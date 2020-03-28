@@ -7,6 +7,14 @@
   padding:0;
 }
 
+a {
+  text-decoration: none;
+}
+
+a:visited{
+  color: aqua;
+}
+
 body{
   width:100%;
   height: 100vh;
@@ -16,30 +24,64 @@ body{
   background-color: #1f222b;
   color: #ffffff;
   margin: 0 15%;
-  padding: 10px;
+  height:800px;
   border-radius: 5px;
 }
 
-a {
-  text-decoration: none;
+.menu-box{
+  padding: 2% 0;
+  background-color: #0f1014;
+  height: 6%;
 }
 
-.menu{
-margin: 2% 18%;
+.menu li{
+  display: inline;
+  padding: 0 9%;
+}
+
+.menu li a {
+  padding: 1%;
+  transition: 0.3s ease;
+}
+
+.menu li a:hover{
+  border-bottom: 3px solid aqua;
+  background-color: rgba(0, 255, 255, 0.322);
+  transition: ease-in-out;
+}
+
+.menu li a:visited{
+  color: aqua;
+}
+
+.menu li a:link{
+  color: rgb(189, 205, 206);
+}
+
+.title{
+  text-align: center;
+  padding: 5% 0;
+  text-shadow: 1px 1px aqua;
 }
 
 #texto{
-width:65%;
-margin:0 auto;
-margin-top: 30px;
-text-align: justify;
+  width:65%;
+  margin:0 auto;
+  margin-top: 30px;
+  text-align: justify;
 }
 
 .voltar{
-text-align: center;
-margin-top: 3%;
+  text-align: center;
+  margin-top: 3%;
+  text-decoration: none;
+  color: aqua;
+  transition: 0.6s ease;
 }
 
+.voltar a:hover{
+  border-bottom: 3px solid aqua;
+}
 
 .img-csharp,.img-java,.img-python,.img-ruby{
   padding-top:10px;
