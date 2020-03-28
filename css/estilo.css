@@ -4,6 +4,7 @@
 	margin-right: 15%;
 	font-family: "Times New Roman", serif;
 	color:#FFFFFF;
+	height: 800px;
 }
 
 a{
@@ -28,4 +29,49 @@ a{
 #imgPython{
 	width: 15%;
 	height: 15%;
+}
+
+.menu-box{
+		padding: 0.1% 0 0 0.1%;
+		background-color: #2f0020;
+		border-radius: 10px;
+}
+
+.menu-horiz{
+background-color: #000000;
+padding: 1%;
+}
+
+.menu-horiz li{
+	display: inline;
+	padding: 0 9% 0 9%;
+}
+
+.menu-horiz li a{
+	color: #ff00ed;
+	font font-family: 'Tahoma', serif;
+	font-size: 20px;
+	padding: 1%;
+}
+
+.menu-horiz li a:LINK{
+	color: #ff00ed;
+}
+
+.menu-horiz li a:visited{
+	color: #ff00ed;
+}
+
+.menu-horiz li a:hover{
+	background-color: #fa9dff;
+
+}
+
+.tit-pagina{
+	text-align: center;
+
+}
+
+.img-box{
+	padding: 0 10% 0 10%;
 }
