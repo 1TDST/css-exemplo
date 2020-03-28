@@ -1,8 +1,9 @@
 #container {
   background-color: #1f222b;
-  margin: 0 15% 0 15%;
-  font-style: "Times New Roman";
-  color: #ffffff;
+  font-style: "Times New Roman", serif;
+  color: #fff;
+  height: 800px;
+  border-radius: 10px 10px 0 0;
 }
 
 a {
@@ -24,3 +25,43 @@ a {
 #imgRuby {
   width: 10%;
 }
+
+.menu-box {
+    padding: 0.1% 0 0.1% 0;
+    background-color: #262423;
+    border-radius: 10px;
+}
+
+.menu-horiz li {
+  display: inline;
+  padding: 0 9% 0 9%;
+}
+
+.menu-horiz li a {
+  color: #fff;
+  font-family:'Tahoma', serif;
+  font-size: 20px;
+  padding: 0.9%;
+}
+
+.menu-horiz li a:link {
+  color: #fff;
+}
+
+.menu-horiz li a:visited {
+  color: #fff;
+}
+
+.menu-horiz li a:hover {
+  background-color: #50786d;
+}
+
+.tit-pag {
+  text-align: center;
+  font-family: 'Tahoma', serif;
+}
+
+/* .img-box {
+  padding:
+  border: 2px solid red;
+} */
