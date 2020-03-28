@@ -4,16 +4,16 @@
     b - margem esquerda e direita em 15%.
     c - fonte Times New Roman e caso não exista deixe o interpretador escolher uma.
     d - cor do texto #ffffff
+    #1f222b
 */
-
-
-
 
 #container{
   background-color: #1f222b;
   margin: 0 15% 0 15%;
   font-family: 'Times New Roman', serif;
-  color: #fff
+  color: #fff;
+  height: 800px;
+  border-radius: 10px 10px 0 0;
 }
 
 a{
@@ -22,4 +22,58 @@ a{
 
 #imgJava{
   width: 10%;
+}
+
+#imgCsharp{
+  width: 10%;
+}
+
+#imgPython{
+  width: 10%;
+}
+
+#imgRuby{
+  width: 10%;
+}
+
+/* Menu Horizontal */
+.menu-box{
+  padding: 0.1% 0 0.1% 0;
+  background-color: #262423;
+  border-radius: 10px;
+}
+
+.menu-horiz li{
+  display: inline;
+  padding: 0 5% 0 10%;
+}
+
+.menu-horiz li a{
+  color: #fff;
+  font-family: 'Tahoma', serif;
+  font-size: 20px;
+  padding: 1%;
+}
+
+.menu-horiz li a:LINK{
+  color: #fff;
+}
+
+.menu-horiz li a:VISITED{
+  color: #fff;
+}
+
+.menu-horiz li a:HOVER{
+  background-color: #50786d;
+}
+
+/* Menu Horizontal */
+
+.tit-pag{
+  text-align: center;
+  font-family: 'Tahoma', serif;
+}
+
+.img-box{
+  padding: 0 10% 0 10%;
 }
