@@ -1,13 +1,38 @@
 #Container{
-  background-color:#f2f7a8;
+  background-color:#0e063d;
   margin: 0 15 0 15  ;
-  font-family: 'Times New Roman', Arial, Calibri,serif;
+  font-family: 'Times New Roman', Arial,Calibri,serif;
   font-style: normal;
-  color:#696969;
+  color:#fff;
+  height: 800px;
 }
-.LinksPaginas{
-
-  color: inherit, #f2f7ff;
+.MenuBox{
+  padding: 0.1% 0 0.1% 0;
+  background-color: #252423;
+  border-radius:0px 0px 50px 50px;
+}
+.MenuHorzontal li{
+  display: inline;
+  padding: 0 9% 1% 9%;
+}
+.MenuHorzontal li a {
+  color: #ffffff;
+  font-family:'Tahoma' serif;
   font-size: 20px;
-  color: #7856f4;
+  padding: 1%;
+}
+.MenuHorzontal li a:link{
+  color: #ffffff;
+}
+.MenuHorzontal li a:visited{
+  color: #ffffff;
+}
+.MenuHorzontal li a:hover{
+  color: #000000;
+}
+.Titulo{
+
+font-family: 'Times New Rman', serif;
+padding-left: 2%;
+
 }
