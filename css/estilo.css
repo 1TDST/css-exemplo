@@ -42,15 +42,32 @@ background-color: #000000;
 padding: 1%;
 }
 
+.menu-horiza{
+background-color: #000000;
+padding: 1%;
+}
+
 .menu-horiz li{
 	display: inline;
 	padding: 0 9% 0 9%;
 }
 
+.menu-horiza li{
+	display: inline;
+	padding: 0 6% 0 9.5%;
+}
+
 .menu-horiz li a{
 	color: #ff00ed;
 	font font-family: 'Tahoma', serif;
-	font-size: 20px;
+	font-size: 15px;
+	padding: 1%;
+}
+
+.menu-horiza li a{
+	color: #ff00ed;
+	font font-family: 'Tahoma', serif;
+	font-size: 15px;
 	padding: 1%;
 }
 
@@ -58,11 +75,24 @@ padding: 1%;
 	color: #ff00ed;
 }
 
+.menu-horiza li a:LINK{
+	color: #ff00ed;
+}
+
 .menu-horiz li a:visited{
 	color: #ff00ed;
 }
 
+.menu-horiza li a:visited{
+	color: #ff00ed;
+}
+
 .menu-horiz li a:hover{
+	background-color: #fa9dff;
+
+}
+
+.menu-horiza li a:hover{
 	background-color: #fa9dff;
 
 }
